@@ -4,3 +4,4 @@ Dream :
 -mempelajari javascript 
 -mempelajari framework javascript
 -meningkatkan ip kuliah secara bertahap
+-menjadi expert materi ajax
