@@ -3,3 +3,4 @@ Dream :
 -ingin jadi expert laravel dong
 -mempelajari javascript 
 -mempelajari framework javascript
+-meningkatkan ip kuliah secara bertahap
