@@ -1,0 +1,6 @@
+Rencana kedepannya seperti ini:
+- Mempelajari angular js 
+ *mengerti sintaks es6
+ *framework javascript
+- Mempelajari javascript secara keseluruhan 	
+- Dapat membuat satu project yang keren 
