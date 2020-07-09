@@ -1,0 +1,4 @@
+Rencana kedepannya seperti ini:
+- Mempelajari angular js 
+- Mempelajari javascript secara keseluruhan 	
+- Dapat membuat satu project yang keren 
