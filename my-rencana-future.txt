@@ -7,3 +7,4 @@ Rencana kedepannya seperti ini:
 - Struktur data dasar
 - Mempelajari javascript secara keseluruhan 	
 - Dapat membuat satu project yang keren 
+- Mempelajari python
